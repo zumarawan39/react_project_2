@@ -1,0 +1,28 @@
+.btn_1{
+    padding: 10px 25px;
+    background-color: black;
+    border: none;
+    outline: none;
+    color: white;
+    /* margin: 10px; */
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 15px;
+}
+.btn_2{
+    width: 305px ;
+    padding: 10px; 
+    border-radius: 5px;
+    margin:10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    background-color: white;
+}
+button:nth-child(3){
+    margin-left: 250px;
+}

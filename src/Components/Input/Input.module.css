@@ -1,0 +1,22 @@
+.input_1{
+    height: 40px;
+    width: 280px;
+    border: 1px solid black;
+}
+.label{
+    display: block;
+    position: absolute;
+    top: -10px;
+    margin-left: 5px;
+    background-color: white;
+} 
+.parent{
+    position: relative;
+    margin: 10px;
+}
+.input_2{
+    height: 120px;
+    width: 280px;
+    border: 1px solid black;
+
+}

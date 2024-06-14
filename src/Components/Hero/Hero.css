@@ -1,0 +1,36 @@
+.contact{
+    width: 60%;
+    margin: auto;
+}
+.upper_contact{
+    padding-left: 20px;
+}
+.heading{
+    font-size: 35px;
+    font-weight: bold;
+}
+.buttons{
+    display: flex;
+    gap: 15px;
+}
+.lower_contact{
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+}
+.right_c_lower{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.left_c_lower{
+    width: 50%;
+}
+.lower_contact{
+    margin-top: 10px;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover ;
+}
